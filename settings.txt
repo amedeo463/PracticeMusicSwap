@@ -1,0 +1,11 @@
+# PracticeMusicSwap settings file
+# Here you can change PracticeMusicSwap's settings.
+
+GDFolder = "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash"
+# This is *so far* the only setting you can edit
+# It is the full path to your (Steam) GD installation
+# The value MUST be a string and thus MUST be contained between quotes (")
+# It must NOT end with '\'
+
+# This file is straight executed by main.py,
+# so you indeed can execute python code from this file
