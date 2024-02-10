@@ -1,5 +1,5 @@
 # PracticeMusicSwap
-A utility to change the GD practice song
+A GD Utility that allows you to change the song played in practice mode
 ## Requires:
 - the latest version of Python
 - the "requests" lib installed
